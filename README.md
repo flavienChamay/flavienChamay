@@ -3,7 +3,7 @@
 
 ## Tech and Math enthusiast with passion for AI and backend dev.
 - 🔭 I’m currently working on - Building my own website/blog in Django.
-- 🌱 I’m currently learning - Django 3.1 | PyQt | MiniMax
+- 🌱 I’m currently learning - Django
 - 👯 I’m looking to collaborate with - OpenSource projects in AI in Python.
 - 💬 Ask me about - Python, it's a pleasure to help another person!
 - 🥅 2021 Goal - Creating my first AI, my website, abugtracker and finding a job in dev.
@@ -27,7 +27,7 @@
 <br />
 
 <!-- Optional if you have blogs -->
-## Latest blog posts:
+<!-- ## Latest blog posts: -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
