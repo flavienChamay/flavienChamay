@@ -10,8 +10,8 @@
 - ⚡ Fun fact - I like jogging and weight training and I'm interested in extraterrestrial life.
 
 ## My Main Projects:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=flavienChamay&repo=Simple-Blockchain&theme=algolia&show_icons=true)](https://github.com/flavienChamay/Simple-Blockchain)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=flavienChamay&repo=PyTacToe&theme=algolia&show_icons=true)](https://github.com/flavienChamay/PyTacToe)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=flavienChamay&repo=Simple-Blockchain&theme=algolia)](https://github.com/flavienChamay/Simple-Blockchain)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=flavienChamay&repo=PyTacToe&theme=algolia)](https://github.com/flavienChamay/PyTacToe)
 
 ## My Stats:
 <!-- Also feel free to update second URL to any URL -->
@@ -22,8 +22,8 @@
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | ProtonMail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][protonmail]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-add hackerrank
-add brilliant
+[<img align="left" alt="codeSTACKr | HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />][hackerrank]
+[<img align="left" alt="codeSTACKr | Brilliant" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/brilliant.svg" />][brilliant]
 <br />
 
 <!-- Optional if you have blogs -->
@@ -35,3 +35,5 @@ add brilliant
 [website]: https://duckduckgo.com
 [linkedin]: https://www.linkedin.com/in/flavien-chamay-836804204
 [protonmail]: mailto:flavien.chamay@protonmail.com
+[hackerrank]: https://www.hackerrank.com/flavien_chamay
+[brilliant]: https://brilliant.org/profile/flavien-kmc04m/about/
