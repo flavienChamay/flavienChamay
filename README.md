@@ -10,9 +10,9 @@
 - ⚡ Fun fact - I like jogging and weight training and I'm interested in extraterrestrial life.
 
 ## My Main Projects:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=flavienChamay&repo=github-readme-stats)](https://github.com/flavienChamay/Simple-Blockchain)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=flavienChamay&repo=Simple-Blockchain)](https://github.com/flavienChamay/Simple-Blockchain)
 
-
+## My Stats:
 <!-- Also feel free to update second URL to any URL -->
 [![Flavien's github stats](https://github-readme-stats.vercel.app/api?username=flavienChamay&count_private=true&include_all_commits=true&theme=algolia&show_icons=true)](https://duckduckgo.com)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=flavienChamay&layout=compact)](https://duckduckgo.com)
