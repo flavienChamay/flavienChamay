@@ -16,6 +16,7 @@
 <a href="https://github.com/flavienChamay/PyTacToe">
 <img height="165px" src="https://github-readme-stats.vercel.app/api/pin/?username=flavienChamay&repo=PyTacToe&theme=algolia&show_icons=true" />
 </a>
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=flavienChamay&repo=Simple-Blockchain&theme=algolia&show_icons=true)](https://github.com/flavienChamay/Simple-Blockchain)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=flavienChamay&repo=PyTacToe&theme=algolia&show_icons=true)](https://github.com/flavienChamay/PyTacToe)
 
