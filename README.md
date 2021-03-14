@@ -10,14 +10,8 @@
 - ⚡ Fun fact - I like jogging and weight training and I'm interested in extraterrestrial life.
 
 ## My Main Projects:
-<a href="https://github.com/flavienChamay/Simple-Blockchain">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=flavienChamay&repo=Simple-Blockchain&theme=algolia" />
-</a>
-<a href="https://github.com/flavienChamay/PyTacToe">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=flavienChamay&repo=PyTacToe&theme=algolia" />
-</a>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=flavienChamay&repo=Simple-Blockchain&theme=algolia)](https://github.com/flavienChamay/Simple-Blockchain)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=flavienChamay&repo=PyTacToe&theme=algolia)](https://github.com/flavienChamay/PyTacToe)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=flavienChamay&repo=Simple-Blockchain&theme=algolia&show_icons=true)](https://github.com/flavienChamay/Simple-Blockchain)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=flavienChamay&repo=PyTacToe&theme=algolia&show_icons=true)](https://github.com/flavienChamay/PyTacToe)
 
 ## My Stats:
 <!-- Also feel free to update second URL to any URL -->
