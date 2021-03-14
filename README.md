@@ -11,6 +11,7 @@
 
 ## My Main Projects:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=flavienChamay&repo=Simple-Blockchain)](https://github.com/flavienChamay/Simple-Blockchain)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=flavienChamay&repo=PyTacToe)](https://github.com/flavienChamay/PyTacToe)
 
 ## My Stats:
 <!-- Also feel free to update second URL to any URL -->
