@@ -1,7 +1,8 @@
 ### Hi, I'm Flavien! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 [![GitHub Flavien](https://img.shields.io/github/followers/flavien?label=follow&style=social)](https://github.com/flavienChamay)
-[![PayPal](https://img.shields.io/badge/PayPal-MyPayPalMe-green?style=flat&logo=PayPal)](https://www.paypal.com/paypalme/flavienChama
+[![PayPal](https://img.shields.io/badge/PayPal-MyPayPalMe-green?style=flat&logo=PayPal)](https://www.paypal.com/paypalme/flavienChamay)
 Add CV
+
 ## Tech and Math enthusiast with passion for AI and backend dev.
 - 🔭 I’m currently working on - Building my own website/blog in Django.
 - 🌱 I’m currently learning - Django
