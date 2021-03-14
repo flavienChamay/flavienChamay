@@ -15,6 +15,7 @@ Add CV
 [![Python](https://img.shields.io/badge/-Python-000?&logo=python)](https://github.com/flavienChamay?tab=repositories&q=&type=&language=python)
 [![C](https://img.shields.io/badge/-C-000?&logo=C)](https://github.com/flavienChamay?tab=repositories&q=&type=&language=c)
 [![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)](https://github.com/flavienChamay?tab=repositories&q=&type=&language=java)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)
 
 ## My Main Projects:
 <a href="https://github.com/flavienChamay/Simple-Blockchain">
