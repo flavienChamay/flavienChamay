@@ -11,10 +11,10 @@
 
 ## My Main Projects:
 <a href="https://github.com/flavienChamay/Simple-Blockchain">
-<img height="165px" src="https://github-readme-stats.vercel.app/api/pin/?username=flavienChamay&repo=Simple-Blockchain&theme=algolia&show_icons=true" />
+<img height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=flavienChamay&repo=Simple-Blockchain&theme=algolia&show_icons=true" />
 </a>
 <a href="https://github.com/flavienChamay/PyTacToe">
-<img height="165px" src="https://github-readme-stats.vercel.app/api/pin/?username=flavienChamay&repo=PyTacToe&theme=algolia&show_icons=true" />
+<img height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=flavienChamay&repo=PyTacToe&theme=algolia&show_icons=true" />
 </a>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=flavienChamay&repo=Simple-Blockchain&theme=algolia&show_icons=true)](https://github.com/flavienChamay/Simple-Blockchain)
