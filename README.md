@@ -15,8 +15,8 @@
 
 ## My Stats:
 <!-- Also feel free to update second URL to any URL -->
-[![Flavien's github stats](https://github-readme-stats.vercel.app/api?username=flavienChamay&count_private=true&include_all_commits=true&theme=algolia&show_icons=true)](https://duckduckgo.com)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=flavienChamay&layout=compact&theme=algolia)](https://duckduckgo.com)
+[![Flavien's github stats](https://github-readme-stats.vercel.app/api?username=flavienChamay&count_private=true&include_all_commits=true&theme=algolia&show_icons=true)](https://github.com/flavienChamay?tab=repositories)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=flavienChamay&layout=compact&theme=algolia)](https://github.com/flavienChamay?tab=repositories)
 
 ## Connect with me:
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
