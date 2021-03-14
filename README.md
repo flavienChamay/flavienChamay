@@ -1,5 +1,5 @@
 ### Hi, I'm Flavien! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-[![Website](https://img.shields.io/badge/MySoonBuildWebsite-MySoonBuildWebsite-green?style=flat&logo=appveyor)](yourWebsiteHere)
+[![Website](https://img.shields.io/badge/MySoonBuildWebsite-MySoonBuildWebsite-green?style=flat&logo=appveyor)](https://duckduckgo.com)
 
 ## Tech and Math enthusiast with passion for AI and backend dev.
 - 🔭 I’m currently working on - Building my own website/blog in Django.
@@ -8,6 +8,10 @@
 - 💬 Ask me about - Python, it's a pleasure to help another person!
 - 🥅 2021 Goal - Creating my first AI, my website, abugtracker and finding a job in dev.
 - ⚡ Fun fact - I like jogging and weight training and I'm interested in extraterrestrial life.
+
+## My Main Projects:
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=flavienChamay&repo=github-readme-stats)](https://github.com/flavienChamay/Simple-Blockchain)
+
 
 <!-- Also feel free to update second URL to any URL -->
 [![Flavien's github stats](https://github-readme-stats.vercel.app/api?username=flavienChamay&count_private=true&include_all_commits=true&theme=algolia&show_icons=true)](https://duckduckgo.com)
