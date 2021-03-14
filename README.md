@@ -1,6 +1,7 @@
 ### Hi, I'm Flavien! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 [![Website](https://img.shields.io/badge/MySoonBuildWebsite-MySoonBuildWebsite-green?style=flat&logo=appveyor)](https://duckduckgo.com)
 [![PayPal](https://img.shields.io/badge/PayPal-MyPayPalMe-green?style=flat&logo=PayPal)](https://www.paypal.com/paypalme/flavienChamay)
+[![StackOverFlow](https://img.shields.io/badge/StackOverFlow-Profile-green?style=flat&logo=stackoverflow)](https://stackoverflow.com/users/7347010/flavien-chamay?tab=profile)
 
 ## Tech and Math enthusiast with passion for AI and backend dev.
 - 🔭 I’m currently working on - Building my own website/blog in Django.
