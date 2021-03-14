@@ -1,6 +1,6 @@
 ### Hi, I'm Flavien! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 [![PayPal](https://img.shields.io/badge/PayPal-MyPayPalMe-green?style=flat&logo=PayPal)](https://www.paypal.com/paypalme/flavienChamay)
-
+Add CV
 ## Tech and Math enthusiast with passion for AI and backend dev.
 - 🔭 I’m currently working on - Building my own website/blog in Django.
 - 🌱 I’m currently learning - Django
@@ -8,6 +8,11 @@
 - 💬 Ask me about - Python, it's a pleasure to help another person!
 - 🥅 2021 Goal - Creating my first AI, my website, abugtracker and finding a job in dev.
 - ⚡ Fun fact - I like jogging and weight training and I'm interested in extraterrestrial life.
+
+## My Skills:
+[![Python](https://img.shields.io/badge/-Python-000?&logo=python)](https://github.com/flavienChamay?tab=repositories&q=&type=&language=python)
+[![C](https://img.shields.io/badge/-C-000?&logo=C)](https://github.com/flavienChamay?tab=repositories&q=&type=&language=c)
+[![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)](https://github.com/flavienChamay?tab=repositories&q=&type=&language=java)
 
 ## My Main Projects:
 <a href="https://github.com/flavienChamay/Simple-Blockchain">
