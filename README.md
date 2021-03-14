@@ -17,9 +17,6 @@
 <img height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=flavienChamay&repo=PyTacToe&theme=algolia&show_icons=true" />
 </a>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=flavienChamay&repo=Simple-Blockchain&theme=algolia&show_icons=true)](https://github.com/flavienChamay/Simple-Blockchain)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=flavienChamay&repo=PyTacToe&theme=algolia&show_icons=true)](https://github.com/flavienChamay/PyTacToe)
-
 ## My Stats:
 <a href="https://github.com/flavienChamay?tab=repositories"><img height="165px" src="https://github-readme-stats.vercel.app/api?username=flavienChamay&count_private=true&include_all_commits=true&theme=algolia&show_icons=true" /><!-- wi*quL3fcV --><img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flavienChamay&layout=compact&theme=algolia" /></a>
 
