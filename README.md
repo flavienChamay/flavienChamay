@@ -2,13 +2,14 @@
 [![GitHub Flavien](https://img.shields.io/github/followers/flavien?label=follow&style=social)](https://github.com/flavienChamay)
 [![PayPal](https://img.shields.io/badge/PayPal-MyPayPalMe-green?style=flat&logo=PayPal)](https://www.paypal.com/paypalme/flavienChamay)
 Add CV
+Add Open to work
 
 ## Tech and Math enthusiast with passion for AI and backend dev.
 - 🔭 I’m currently working on - Building my own website/blog in Django.
 - 🌱 I’m currently learning - Django
 - 👯 I’m looking to collaborate with - OpenSource projects in AI in Python.
 - 💬 Ask me about - Python, it's a pleasure to help another person!
-- 🥅 2021 Goal - Creating my first AI, my website, abugtracker and finding a job in dev.
+- 🥅 2021 Goal - Creating my first AI, my website, a bugtracker and finding a job in dev.
 - ⚡ Fun fact - I like jogging and weight training and I'm interested in extraterrestrial life.
 
 ## My Skills:
