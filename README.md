@@ -10,8 +10,8 @@
 - ⚡ Fun fact - I like jogging and weight training and I'm interested in extraterrestrial life.
 
 <!-- Also feel free to update second URL to any URL -->
-[![Flavien's github stats](https://github-readme-stats.vercel.app/api?username=flavienChamay&count_private=true&include_all_commits=true&theme=algoliashow_icons=true)](https://duckduckgo.com)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=flavienChamay&layout=compact)]()
+[![Flavien's github stats](https://github-readme-stats.vercel.app/api?username=flavienChamay&count_private=true&include_all_commits=true&theme=algolia&show_icons=true)](https://duckduckgo.com)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=flavienChamay&layout=compact)](https://duckduckgo.com)
 
 ## Connect with me:
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
