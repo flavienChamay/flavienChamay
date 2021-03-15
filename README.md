@@ -2,11 +2,11 @@
 [![GitHub Flavien](https://img.shields.io/github/followers/flavienChamay?label=follow&style=social)](https://github.com/flavienChamay)
 [![PayPal](https://img.shields.io/badge/PayPal-MyPayPalMe-green?style=flat&logo=PayPal)](https://www.paypal.com/paypalme/flavienChamay)
 [![Open To Work](https://img.shields.io/badge/OpenToWork-YES-red?style=flat&logo=gravatar&logoColor=white)]([linkedin])
-[![My CV](https://img.shields.io/badge/CV-A_Taste_Of_Flavien-blue?style=flat&logo=markdown&logoColor=white)]()
+[![My CV](https://img.shields.io/badge/CV-A_Taste_Of_Flavien-blue?style=flat&logo=markdown&logoColor=white)](https://flavienchamay.github.io/digital-cv-flavien_chamay/)
 
 
 ## Tech and Math enthusiast with passion for AI and backend dev.
-- 🔭 I’m currently working on - Building my own website/blog in Django.
+- 🔭 I’m currently working on - Building my own website/blog.
 - 🌱 I’m currently learning - Django
 - 👯 I’m looking to collaborate with - OpenSource projects in AI in Python.
 - 💬 Ask me about - Python, it's a pleasure to help another person!
