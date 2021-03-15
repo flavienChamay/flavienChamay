@@ -2,7 +2,7 @@
 [![GitHub Flavien](https://img.shields.io/github/followers/flavienChamay?label=follow&style=social)](https://github.com/flavienChamay)
 [![PayPal](https://img.shields.io/badge/PayPal-MyPayPalMe-green?style=flat&logo=PayPal)](https://www.paypal.com/paypalme/flavienChamay)
 Add CV
-[![Open To Work](https://img.shields.io/badge/OpenToWork-YES-red?style=flat&logo?logo=data:https://freesvg.org/img/1492285637.png)]([linkedin])
+[![Open To Work](https://img.shields.io/badge/OpenToWork-YES-red?style=flat&logo?logo=data:freesvg.org/img/1492285637.png)]([linkedin])
 
 ## Tech and Math enthusiast with passion for AI and backend dev.
 - 🔭 I’m currently working on - Building my own website/blog in Django.
