@@ -1,8 +1,8 @@
 ### Hi, I'm Flavien! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 [![GitHub Flavien](https://img.shields.io/github/followers/flavienChamay?label=follow&style=social)](https://github.com/flavienChamay)
-[![PayPal](https://img.shields.io/badge/PayPal-MyPayPalMe-green?style=flat&logo=PayPal)](https://www.paypal.com/paypalme/flavienChamay)
-[![Open To Work](https://img.shields.io/badge/OpenToWork-YES-red?style=flat&logo=gravatar&logoColor=white)]([linkedin])
+[![Open To Work](https://img.shields.io/badge/OpenToWork-YES-red?style=flat&logo=gravatar&logoColor=white)](https://www.linkedin.com/in/flavien-chamay-836804204)
 [![My CV](https://img.shields.io/badge/CV-A_Taste_Of_Flavien-blue?style=flat&logo=markdown&logoColor=white)](https://flavienchamay.github.io/digital-cv-flavien_chamay/)
+[![PayPal](https://img.shields.io/badge/PayPal-MyPayPalMe-green?style=flat&logo=PayPal)](https://www.paypal.com/paypalme/flavienChamay)
 
 
 ## Tech and Math enthusiast with passion for AI and backend dev.
