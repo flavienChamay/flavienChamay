@@ -2,7 +2,7 @@
 [![GitHub Flavien](https://img.shields.io/github/followers/flavienChamay?label=follow&style=social)](https://github.com/flavienChamay)
 [![PayPal](https://img.shields.io/badge/PayPal-MyPayPalMe-green?style=flat&logo=PayPal)](https://www.paypal.com/paypalme/flavienChamay)
 [![Open To Work](https://img.shields.io/badge/OpenToWork-YES-red?style=flat&logo=gravatar&logoColor=white)]([linkedin])
-[![My CV](https://img.shields.io/badge/CV-A-Taste-Of-Flavien-blue?style=flat&logo=markdown&logoColor=white)]()
+[![My CV](https://img.shields.io/badge/CV-A_Taste_Of_Flavien-blue?style=flat&logo=markdown&logoColor=white)]()
 
 
 ## Tech and Math enthusiast with passion for AI and backend dev.
