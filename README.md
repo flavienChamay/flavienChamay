@@ -15,7 +15,7 @@
 - ⚡ Fun fact - I like jogging and weight training and I'm interested in extraterrestrial life.
 
 ## :wrench: My Skills:
-- [![Python](https://img.shields.io/badge/Language-Python_3-yellow?style=flat&logo=Python)](https://github.com/flavienChamay?tab=repositories&q=&type=&language=python)
+* [![Python](https://img.shields.io/badge/Language-Python_3-yellow?style=flat&logo=Python)](https://github.com/flavienChamay?tab=repositories&q=&type=&language=python)
 [![C](https://img.shields.io/badge/Language-C_17/C++-yellow?style=flat&logo=C)](https://github.com/flavienChamay?tab=repositories&q=&type=&language=c)
 [![Java](https://img.shields.io/badge/Language-Java_15-yellow?style=flat&logo=Java)](https://github.com/flavienChamay?tab=repositories&q=&type=&language=java)
 ![Latex](https://img.shields.io/badge/Language-Latex-yellow?style=flat&logo=latex)
