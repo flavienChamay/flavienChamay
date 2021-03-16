@@ -6,7 +6,7 @@
 [![GitHub Flavien](https://img.shields.io/github/followers/flavienChamay?label=follow&style=social)](https://github.com/flavienChamay)
 
 
-## Tech and Math enthusiast with passion for AI and backend dev.
+## Tech and Math enthusiast with a passion for AI and backend dev.
 - 🔭 I’m currently working on - Building my own website/blog.
 - 🌱 I’m currently learning - Django 3.1.
 - 👯 I’m looking to collaborate with - OpenSource projects in AI in Python.
@@ -18,7 +18,9 @@
 [![Python](https://img.shields.io/badge/Python3-blue?style=flat&logo=Python)](https://github.com/flavienChamay?tab=repositories&q=&type=&language=python)
 [![C](https://img.shields.io/badge/C/C++-blue?style=flat&logo=C)](https://github.com/flavienChamay?tab=repositories&q=&type=&language=c)
 [![Java](https://img.shields.io/badge/Java_SE_15-blue?style=flat&logo=Java)](https://github.com/flavienChamay?tab=repositories&q=&type=&language=java)
-![Linux](https://img.shields.io/badge/Linux-Manjaro_Mint_Ubuntu-yellow?style=flat&logo=Linux)
+![Latex](https://img.shields.io/badge/Latex-orange?style=flat&logo=latex)
+![Linux Manjaro](https://img.shields.io/badge/Linux-Manjaro-yellow?style=flat&logo=manjaro)
+![Linux Ubuntu](https://img.shields.io/badge/Linux-Ubuntu-yellow?style=flat&logo=ubuntu)
 ![Git](https://img.shields.io/badge/Git-orange?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-white?style=flat&logo=github)
 ![Heroku](https://img.shields.io/badge/Heroku-white?style=flat&logo=heroku)
@@ -30,12 +32,12 @@
 ## :chart_with_upwards_trend: My Stats:
 <a href="https://github.com/flavienChamay?tab=repositories"><img height="165px" src="https://github-readme-stats.vercel.app/api?username=flavienChamay&count_private=true&include_all_commits=true&theme=algolia&show_icons=true" /><!-- wi*quL3fcV --><img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flavienChamay&layout=compact&theme=algolia" /></a>
 
-## :earth_africa: Connect with me:
+## :earth_africa: Connect with Me:
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | ProtonMail" width="22px" src="https://simpleicons.org/icons/protonmail.svg" />][protonmail]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br />
-## :1234: Science with me:
+## :1234: Science with Me:
 [<img align="left" alt="codeSTACKr | HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />][hackerrank]
 [<img align="left" alt="codeSTACKr | Brilliant" width="22px" src="https://upload.wikimedia.org/wikipedia/en/8/81/Brilliant_Logo.svg" />][brilliant]
 [<img align="left" alt="codeSTACKr | StackOverFlow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
