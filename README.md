@@ -16,7 +16,7 @@
 
 ## My Skills:
 [![Python](https://img.shields.io/badge/Python-Python3_Django3-blue?style=flat&logo=Python)](https://github.com/flavienChamay?tab=repositories&q=&type=&language=python)
-[![C](https://img.shields.io/badge/C-C//C++-blue?style=flat&logo=C)](https://github.com/flavienChamay?tab=repositories&q=&type=&language=c)
+[![C](https://img.shields.io/badge/C/C++-blue?style=flat&logo=C)](https://github.com/flavienChamay?tab=repositories&q=&type=&language=c)
 [![Java](https://img.shields.io/badge/Java-Java_SE_15-blue?style=flat&logo=Java)](https://github.com/flavienChamay?tab=repositories&q=&type=&language=java)
 ![Linux](https://img.shields.io/badge/Linux-Manjaro_Mint_Ubuntu-yellow?style=flat&logo=Linux)
 
