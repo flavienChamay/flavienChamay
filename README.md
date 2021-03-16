@@ -1,13 +1,14 @@
 ### Hi, I'm Flavien! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 [![GitHub Flavien](https://img.shields.io/github/followers/flavienChamay?label=follow&style=social)](https://github.com/flavienChamay)
 [![Open To Work](https://img.shields.io/badge/OpenToWork-YES-red?style=flat&logo=gravatar&logoColor=white)](https://www.linkedin.com/in/flavien-chamay-836804204)
-[![My CV](https://img.shields.io/badge/CV-A_Taste_Of_Flavien-blue?style=flat&logo=markdown&logoColor=white)](https://flavienchamay.github.io/digital-cv-flavien_chamay/)
+[![My CV Markdown](https://img.shields.io/badge/CV-A_Taste_Of_Flavien-blue?style=flat&logo=markdown&logoColor=white)](https://flavienchamay.github.io/digital-cv-flavien_chamay/)
+[![My CV Latex](https://img.shields.io/badge/CV-A_Taste_Of_Flavien-green?style=flat&logo=latex&logoColor=white)]()
 [![PayPal](https://img.shields.io/badge/PayPal-MyPayPalMe-green?style=flat&logo=PayPal)](https://www.paypal.com/paypalme/flavienChamay)
 
 
 ## Tech and Math enthusiast with passion for AI and backend dev.
 - 🔭 I’m currently working on - Building my own website/blog.
-- 🌱 I’m currently learning - Django
+- 🌱 I’m currently learning - Django 3.1.
 - 👯 I’m looking to collaborate with - OpenSource projects in AI in Python.
 - 💬 Ask me about - Python, it's a pleasure to help another person!
 - 🥅 2021 Goal - Creating my first AI, my website, a bugtracker and finding a job in dev.
@@ -15,17 +16,12 @@
 
 ## My Skills:
 [![Python](https://img.shields.io/badge/Python-Python3_Django3-blue?style=flat&logo=Python)](https://github.com/flavienChamay?tab=repositories&q=&type=&language=python)
-[![C](https://img.shields.io/badge/C-blue?style=flat&logo=C)](https://github.com/flavienChamay?tab=repositories&q=&type=&language=c)
-[![Java](https://img.shields.io/badge/Java-Java-blue?style=flat&logo=Java)](https://github.com/flavienChamay?tab=repositories&q=&type=&language=java)
-![Linux](https://img.shields.io/badge/Linux-Manjaro_Mint_Ubuntu-yellow?style=flat&logo=Linux)
+[![C](https://img.shields.io/badge/C-C-blue?style=flat&logo=C)](https://github.com/flavienChamay?tab=repositories&q=&type=&language=c)
+[![Java](https://img.shields.io/badge/Java-Java_SE_15-blue?style=flat&logo=Java)](https://github.com/flavienChamay?tab=repositories&q=&type=&language=java)
+[![Linux](https://img.shields.io/badge/Linux-Manjaro_Mint_Ubuntu-yellow?style=flat&logo=Linux)]
 
 ## My Main Projects:
-<a href="https://github.com/flavienChamay/Simple-Blockchain">
-<img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=flavienChamay&repo=Simple-Blockchain&theme=algolia&show_icons=true" />
-</a>
-<a href="https://github.com/flavienChamay/PyTacToe">
-<img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=flavienChamay&repo=PyTacToe&theme=algolia&show_icons=true" />
-</a>
+<a href="https://github.com/flavienChamay/Simple-Blockchain"><img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=flavienChamay&repo=Simple-Blockchain&theme=algolia&show_icons=true" /> </a> <a href="https://github.com/flavienChamay/PyTacToe"> <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=flavienChamay&repo=PyTacToe&theme=algolia&show_icons=true" /></a>
 
 ## My Stats:
 <a href="https://github.com/flavienChamay?tab=repositories"><img height="165px" src="https://github-readme-stats.vercel.app/api?username=flavienChamay&count_private=true&include_all_commits=true&theme=algolia&show_icons=true" /><!-- wi*quL3fcV --><img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flavienChamay&layout=compact&theme=algolia" /></a>
