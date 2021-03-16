@@ -24,18 +24,18 @@
 ![Heroku](https://img.shields.io/badge/Heroku-white?style=flat&logo=heroku)
 ![Linode](https://img.shields.io/badge/Linode-white?style=flat&logo=linode)
 
-## My Main Projects:
+## :art: My Main Projects:
 <a href="https://github.com/flavienChamay/Simple-Blockchain"><img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=flavienChamay&repo=Simple-Blockchain&theme=algolia&show_icons=true" /> </a> <a href="https://github.com/flavienChamay/PyTacToe"> <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=flavienChamay&repo=PyTacToe&theme=algolia&show_icons=true" /></a>
 
-## My Stats:
+## :chart_with_upwards_trend: My Stats:
 <a href="https://github.com/flavienChamay?tab=repositories"><img height="165px" src="https://github-readme-stats.vercel.app/api?username=flavienChamay&count_private=true&include_all_commits=true&theme=algolia&show_icons=true" /><!-- wi*quL3fcV --><img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flavienChamay&layout=compact&theme=algolia" /></a>
 
-## Connect with me:
+## :earth_africa: Connect with me:
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | ProtonMail" width="22px" src="https://simpleicons.org/icons/protonmail.svg" />][protonmail]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br />
-## Science with me:
+## :1234: Science with me:
 [<img align="left" alt="codeSTACKr | HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />][hackerrank]
 [<img align="left" alt="codeSTACKr | Brilliant" width="22px" src="https://upload.wikimedia.org/wikipedia/en/8/81/Brilliant_Logo.svg" />][brilliant]
 [<img align="left" alt="codeSTACKr | StackOverFlow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
