@@ -21,10 +21,10 @@
 
 ## My Main Projects:
 <a href="https://github.com/flavienChamay/Simple-Blockchain">
-<img height="150px" width="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=flavienChamay&repo=Simple-Blockchain&theme=algolia&show_icons=true" />
+<img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=flavienChamay&repo=Simple-Blockchain&theme=algolia&show_icons=true" />
 </a>
 <a href="https://github.com/flavienChamay/PyTacToe">
-<img height="150px" width="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=flavienChamay&repo=PyTacToe&theme=algolia&show_icons=true" />
+<img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=flavienChamay&repo=PyTacToe&theme=algolia&show_icons=true" />
 </a>
 
 ## My Stats:
