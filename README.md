@@ -15,18 +15,18 @@
 - ⚡ Fun fact - I like jogging and weight training and I'm interested in extraterrestrial life.
 
 ## :wrench: My Skills:
-[![Python](https://img.shields.io/badge/Language-Python_3-yellow?style=flat&logo=Python)](https://github.com/flavienChamay?tab=repositories&q=&type=&language=python)
+*[![Python](https://img.shields.io/badge/Language-Python_3-yellow?style=flat&logo=Python)](https://github.com/flavienChamay?tab=repositories&q=&type=&language=python)
 [![C](https://img.shields.io/badge/Language-C_17/C++-yellow?style=flat&logo=C)](https://github.com/flavienChamay?tab=repositories&q=&type=&language=c)
 [![Java](https://img.shields.io/badge/Language-Java_15-yellow?style=flat&logo=Java)](https://github.com/flavienChamay?tab=repositories&q=&type=&language=java)
 ![Latex](https://img.shields.io/badge/Language-Latex-yellow?style=flat&logo=latex) \
-![Django](https://img.shields.io/badge/Framework-Django-red?style=flat&logo=django) \
-![Linux Manjaro](https://img.shields.io/badge/Linux_OS-Manjaro-blue?style=flat&logo=manjaro)
+*![Django](https://img.shields.io/badge/Framework-Django-red?style=flat&logo=django) \
+*![Linux Manjaro](https://img.shields.io/badge/Linux_OS-Manjaro-blue?style=flat&logo=manjaro)
 ![Linux Ubuntu](https://img.shields.io/badge/Linux_OS-Ubuntu-blue?style=flat&logo=ubuntu) \
-![Git](https://img.shields.io/badge/VCS-Git-black?style=flat&logo=git)
+*![Git](https://img.shields.io/badge/VCS-Git-black?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/VCS-GitHub-black?style=flat&logo=github) \
-![Emacs](https://img.shields.io/badge/IDE-Emacs-white?style=flat&logo=gnu-emacs)
+*![Emacs](https://img.shields.io/badge/IDE-Emacs-white?style=flat&logo=gnu-emacs)
 ![PyCharm](https://img.shields.io/badge/IDE-PyCharm-white?style=flat&logo=pycharm) \
-![Heroku](https://img.shields.io/badge/Cloud-Heroku-orange?style=flat&logo=heroku)
+*![Heroku](https://img.shields.io/badge/Cloud-Heroku-orange?style=flat&logo=heroku)
 ![Linode](https://img.shields.io/badge/Cloud-Linode-orange?style=flat&logo=linode)
 
 ## :art: My Main Projects:
