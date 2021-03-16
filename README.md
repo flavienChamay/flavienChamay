@@ -23,8 +23,8 @@
 ![Linux Ubuntu](https://img.shields.io/badge/Linux-Ubuntu-yellow?style=flat&logo=ubuntu)
 ![Git](https://img.shields.io/badge/Git-orange?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-white?style=flat&logo=github)
-![Heroku](https://img.shields.io/badge/Heroku-white?style=flat&logo=heroku)
-![Linode](https://img.shields.io/badge/Linode-white?style=flat&logo=linode)
+![Heroku](https://img.shields.io/badge/Cloud-Heroku-white?style=flat&logo=heroku)
+![Linode](https://img.shields.io/badge/Cloud-Linode-white?style=flat&logo=linode)
 
 ## :art: My Main Projects:
 <a href="https://github.com/flavienChamay/Simple-Blockchain"><img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=flavienChamay&repo=Simple-Blockchain&theme=algolia&show_icons=true" /> </a> <a href="https://github.com/flavienChamay/PyTacToe"> <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=flavienChamay&repo=PyTacToe&theme=algolia&show_icons=true" /></a>
