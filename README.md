@@ -24,7 +24,7 @@
 ![Linux Ubuntu](https://img.shields.io/badge/Linux_OS-Ubuntu-yellow?style=flat&logo=ubuntu)
 ![Git](https://img.shields.io/badge/VCS-Git-orange?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/VCS-GitHub-white?style=flat&logo=github)
-![Emacs](https://img.shields.io/badge/IDE-Emacs-white?style=flat&logo=gnuemacs)
+![Emacs](https://img.shields.io/badge/IDE-Emacs-white?style=flat&logo=gnu-emacs)
 ![PyCharm](https://img.shields.io/badge/IDE-PyCharm-white?style=flat&logo=pycharm)
 ![Heroku](https://img.shields.io/badge/Cloud-Heroku-white?style=flat&logo=heroku)
 ![Linode](https://img.shields.io/badge/Cloud-Linode-white?style=flat&logo=linode)
