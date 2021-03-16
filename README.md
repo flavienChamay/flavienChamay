@@ -15,10 +15,11 @@
 - ⚡ Fun fact - I like jogging and weight training and I'm interested in extraterrestrial life.
 
 ## :wrench: My Skills:
-[![Python](https://img.shields.io/badge/Language-Python_3-yellow?style=flat&logo=Python)](https://github.com/flavienChamay?tab=repositories&q=&type=&language=python)
+<a>[![Python](https://img.shields.io/badge/Language-Python_3-yellow?style=flat&logo=Python)](https://github.com/flavienChamay?tab=repositories&q=&type=&language=python)
 [![C](https://img.shields.io/badge/Language-C/C++-yellow?style=flat&logo=C)](https://github.com/flavienChamay?tab=repositories&q=&type=&language=c)
 [![Java](https://img.shields.io/badge/Language-Java_15-yellow?style=flat&logo=Java)](https://github.com/flavienChamay?tab=repositories&q=&type=&language=java)
 ![Latex](https://img.shields.io/badge/Language-Latex-yellow?style=flat&logo=latex)
+</a>
 ![Django](https://img.shields.io/badge/Framework-Django-red?style=flat&logo=django)
 ![Linux Manjaro](https://img.shields.io/badge/Linux_OS-Manjaro-blue?style=flat&logo=manjaro)
 ![Linux Ubuntu](https://img.shields.io/badge/Linux_OS-Ubuntu-blue?style=flat&logo=ubuntu)
