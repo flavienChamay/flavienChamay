@@ -16,8 +16,8 @@
 ## My Skills:
 [![Python](https://img.shields.io/badge/Python-Python?style=flat&logo=python)](https://github.com/flavienChamay?tab=repositories&q=&type=&language=python)
 [![C](https://img.shields.io/badge/C?style=flat&logo=C)](https://github.com/flavienChamay?tab=repositories&q=&type=&language=c)
-[![Java](https://img.shields.io/badge/Java?style=flat&logo=Java&logoColor=007396)](https://github.com/flavienChamay?tab=repositories&q=&type=&language=java)
-![Linux](https://img.shields.io/badge/Linux?style=flat&logo=Linux&logoColor=FCC624)
+[![Java](https://img.shields.io/badge/Java-Java-blue?style=flat&logo=Java)](https://github.com/flavienChamay?tab=repositories&q=&type=&language=java)
+![Linux](https://img.shields.io/badge/Linux-linux-blue?style=flat&logo=Linux)
 
 ## My Main Projects:
 <a href="https://github.com/flavienChamay/Simple-Blockchain">
