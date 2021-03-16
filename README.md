@@ -6,7 +6,7 @@
 [![GitHub Flavien](https://img.shields.io/github/followers/flavienChamay?label=follow&style=social)](https://github.com/flavienChamay)
 
 
-## Tech and Math enthusiast with a passion for AI and backend dev.
+## Tech and Math enthusiast with a passion for AI and Backend Dev.
 - 🔭 I’m currently working on - Building my own website/blog.
 - 🌱 I’m currently learning - Django 3.1.
 - 👯 I’m looking to collaborate with - OpenSource projects in AI in Python.
