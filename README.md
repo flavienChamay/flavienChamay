@@ -15,14 +15,14 @@
 - ⚡ Fun fact - I like jogging and weight training and I'm interested in extraterrestrial life.
 
 ## :wrench: My Skills:
-[![Python](https://img.shields.io/badge/Python3-blue?style=flat&logo=Python)](https://github.com/flavienChamay?tab=repositories&q=&type=&language=python)
-[![C](https://img.shields.io/badge/C/C++-blue?style=flat&logo=C)](https://github.com/flavienChamay?tab=repositories&q=&type=&language=c)
-[![Java](https://img.shields.io/badge/Java_SE_15-blue?style=flat&logo=Java)](https://github.com/flavienChamay?tab=repositories&q=&type=&language=java)
-![Latex](https://img.shields.io/badge/Latex-orange?style=flat&logo=latex)
-![Linux Manjaro](https://img.shields.io/badge/Linux-Manjaro-yellow?style=flat&logo=manjaro)
-![Linux Ubuntu](https://img.shields.io/badge/Linux-Ubuntu-yellow?style=flat&logo=ubuntu)
-![Git](https://img.shields.io/badge/Git-orange?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-white?style=flat&logo=github)
+[![Python](https://img.shields.io/badge/Language-Python_3-blue?style=flat&logo=Python)](https://github.com/flavienChamay?tab=repositories&q=&type=&language=python)
+[![C](https://img.shields.io/badge/Language-C/C++-blue?style=flat&logo=C)](https://github.com/flavienChamay?tab=repositories&q=&type=&language=c)
+[![Java](https://img.shields.io/badge/Language-Java_15-blue?style=flat&logo=Java)](https://github.com/flavienChamay?tab=repositories&q=&type=&language=java)
+![Latex](https://img.shields.io/badge/Language-Latex-orange?style=flat&logo=latex)
+![Linux Manjaro](https://img.shields.io/badge/Linux_OS-Manjaro-yellow?style=flat&logo=manjaro)
+![Linux Ubuntu](https://img.shields.io/badge/Linux_OS-Ubuntu-yellow?style=flat&logo=ubuntu)
+![Git](https://img.shields.io/badge/VCS-Git-orange?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/VCS-GitHub-white?style=flat&logo=github)
 ![Heroku](https://img.shields.io/badge/Cloud-Heroku-white?style=flat&logo=heroku)
 ![Linode](https://img.shields.io/badge/Cloud-Linode-white?style=flat&logo=linode)
 
