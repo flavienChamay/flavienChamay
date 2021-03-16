@@ -2,7 +2,7 @@
 [![Open To Work](https://img.shields.io/badge/OpenToWork-YES-red?style=flat&logo=gravatar&logoColor=white)](https://www.linkedin.com/in/flavien-chamay-836804204)
 [![My CV Markdown](https://img.shields.io/badge/CV-In_MarkDown/Online-yellow?style=flat&logo=markdown&logoColor=white)](https://flavienchamay.github.io/digital-cv-flavien_chamay/)
 [![My CV Latex](https://img.shields.io/badge/CV-In_Latex/PDF-green?style=flat&logo=latex&logoColor=white)]()
-[![PayPal](https://img.shields.io/badge/PayPal-MyPayPalMe-blue?style=flat&logo=PayPal)](https://www.paypal.com/paypalme/flavienChamay)
+[![PayPal](https://img.shields.io/badge/PayPal-My_PayPalMe-blue?style=flat&logo=PayPal)](https://www.paypal.com/paypalme/flavienChamay)
 [![GitHub Flavien](https://img.shields.io/github/followers/flavienChamay?label=follow&style=social)](https://github.com/flavienChamay)
 
 
@@ -19,10 +19,13 @@
 [![C](https://img.shields.io/badge/Language-C/C++-blue?style=flat&logo=C)](https://github.com/flavienChamay?tab=repositories&q=&type=&language=c)
 [![Java](https://img.shields.io/badge/Language-Java_15-blue?style=flat&logo=Java)](https://github.com/flavienChamay?tab=repositories&q=&type=&language=java)
 ![Latex](https://img.shields.io/badge/Language-Latex-orange?style=flat&logo=latex)
+![Django](https://img.shields.io/badge/Framework-Django-orange?style=flat&logo=django)
 ![Linux Manjaro](https://img.shields.io/badge/Linux_OS-Manjaro-yellow?style=flat&logo=manjaro)
 ![Linux Ubuntu](https://img.shields.io/badge/Linux_OS-Ubuntu-yellow?style=flat&logo=ubuntu)
 ![Git](https://img.shields.io/badge/VCS-Git-orange?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/VCS-GitHub-white?style=flat&logo=github)
+![Emacs](https://img.shields.io/badge/IDE-Emacs-white?style=flat&logo=emacs)
+![PyCharm](https://img.shields.io/badge/IDE-PyCharm-white?style=flat&logo=pycharm)
 ![Heroku](https://img.shields.io/badge/Cloud-Heroku-white?style=flat&logo=heroku)
 ![Linode](https://img.shields.io/badge/Cloud-Linode-white?style=flat&logo=linode)
 
