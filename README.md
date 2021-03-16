@@ -1,8 +1,8 @@
 ### Hi, I'm Flavien! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 [![Open To Work](https://img.shields.io/badge/OpenToWork-YES-red?style=flat&logo=gravatar&logoColor=white)](https://www.linkedin.com/in/flavien-chamay-836804204)
-[![My CV Markdown](https://img.shields.io/badge/CV-A_Taste_Of_Flavien-blue?style=flat&logo=markdown&logoColor=white)](https://flavienchamay.github.io/digital-cv-flavien_chamay/)
-[![My CV Latex](https://img.shields.io/badge/CV-A_Taste_Of_Flavien-green?style=flat&logo=latex&logoColor=white)]()
-[![PayPal](https://img.shields.io/badge/PayPal-MyPayPalMe-green?style=flat&logo=PayPal)](https://www.paypal.com/paypalme/flavienChamay)
+[![My CV Markdown](https://img.shields.io/badge/CV-In_MarkDown-yellow?style=flat&logo=markdown&logoColor=white)](https://flavienchamay.github.io/digital-cv-flavien_chamay/)
+[![My CV Latex](https://img.shields.io/badge/CV-In_Latex-green?style=flat&logo=latex&logoColor=white)]()
+[![PayPal](https://img.shields.io/badge/PayPal-MyPayPalMe-blue?style=flat&logo=PayPal)](https://www.paypal.com/paypalme/flavienChamay)
 [![GitHub Flavien](https://img.shields.io/github/followers/flavienChamay?label=follow&style=social)](https://github.com/flavienChamay)
 
 
@@ -16,7 +16,7 @@
 
 ## My Skills:
 [![Python](https://img.shields.io/badge/Python-Python3_Django3-blue?style=flat&logo=Python)](https://github.com/flavienChamay?tab=repositories&q=&type=&language=python)
-[![C](https://img.shields.io/badge/C-C-blue?style=flat&logo=C)](https://github.com/flavienChamay?tab=repositories&q=&type=&language=c)
+[![C](https://img.shields.io/badge/C-C//C++-blue?style=flat&logo=C)](https://github.com/flavienChamay?tab=repositories&q=&type=&language=c)
 [![Java](https://img.shields.io/badge/Java-Java_SE_15-blue?style=flat&logo=Java)](https://github.com/flavienChamay?tab=repositories&q=&type=&language=java)
 ![Linux](https://img.shields.io/badge/Linux-Manjaro_Mint_Ubuntu-yellow?style=flat&logo=Linux)
 
