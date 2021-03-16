@@ -14,13 +14,15 @@
 - 🥅 2021 Goal - Creating my first AI, my website, a bugtracker and finding a job in dev.
 - ⚡ Fun fact - I like jogging and weight training and I'm interested in extraterrestrial life.
 
-## My Skills:
+## :wrench: My Skills:
 [![Python](https://img.shields.io/badge/Python3-blue?style=flat&logo=Python)](https://github.com/flavienChamay?tab=repositories&q=&type=&language=python)
 [![C](https://img.shields.io/badge/C/C++-blue?style=flat&logo=C)](https://github.com/flavienChamay?tab=repositories&q=&type=&language=c)
 [![Java](https://img.shields.io/badge/Java_SE_15-blue?style=flat&logo=Java)](https://github.com/flavienChamay?tab=repositories&q=&type=&language=java)
 ![Linux](https://img.shields.io/badge/Linux-Manjaro_Mint_Ubuntu-yellow?style=flat&logo=Linux)
 ![Git](https://img.shields.io/badge/Git-orange?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-white?style=flat&logo=github)
+![Heroku](https://img.shields.io/badge/Heroku-white?style=flat&logo=heroku)
+![Linode](https://img.shields.io/badge/Linode-white?style=flat&logo=linode)
 
 ## My Main Projects:
 <a href="https://github.com/flavienChamay/Simple-Blockchain"><img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=flavienChamay&repo=Simple-Blockchain&theme=algolia&show_icons=true" /> </a> <a href="https://github.com/flavienChamay/PyTacToe"> <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=flavienChamay&repo=PyTacToe&theme=algolia&show_icons=true" /></a>
