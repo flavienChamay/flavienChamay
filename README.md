@@ -9,7 +9,7 @@
 ## Tech and Math enthusiast with a passion for AI and Backend Dev.
 - 🔭 I’m currently working on - Building my own website/blog.
 - 🌱 I’m currently learning - Django 3.1.
-- 👯 I’m looking to collaborate with - OpenSource projects in AI in Python.
+- 👯 I’m looking to collaborate with - A company for a job in Python Backend, Open source projects in AI in Python.
 - 💬 Ask me about - Python, it's a pleasure to help another person!
 - 🥅 2021 Goal - Creating my first AI, my website, a bugtracker and finding a job in dev.
 - ⚡ Fun fact - I like jogging and weight training and I'm interested in extraterrestrial life.
