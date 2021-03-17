@@ -16,18 +16,18 @@
 
 ## :wrench: My Skills:
 * [![Python](https://img.shields.io/badge/Language-Python_3-yellow?style=flat&logo=Python)](https://github.com/flavienChamay?tab=repositories&q=&type=&language=python)
-[![C](https://img.shields.io/badge/Language-C_17/C++-yellow?style=flat&logo=C)](https://github.com/flavienChamay?tab=repositories&q=&type=&language=c)
+[![C](https://img.shields.io/badge/Language-C_17-yellow?style=flat&logo=C)](https://github.com/flavienChamay?tab=repositories&q=&type=&language=c)
 [![Java](https://img.shields.io/badge/Language-Java_15-yellow?style=flat&logo=Java)](https://github.com/flavienChamay?tab=repositories&q=&type=&language=java)
-![Latex](https://img.shields.io/badge/Language-Latex-yellow?style=flat&logo=latex)
-* ![Django](https://img.shields.io/badge/Framework-Django-red?style=flat&logo=django)
-* ![Linux Manjaro](https://img.shields.io/badge/Linux_OS-Manjaro-blue?style=flat&logo=manjaro)
-![Linux Ubuntu](https://img.shields.io/badge/Linux_OS-Ubuntu-blue?style=flat&logo=ubuntu)
-* ![Git](https://img.shields.io/badge/VCS-Git-black?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/VCS-GitHub-black?style=flat&logo=github)
-* ![Emacs](https://img.shields.io/badge/IDE-Emacs-white?style=flat&logo=gnu-emacs)
-![PyCharm](https://img.shields.io/badge/IDE-PyCharm-white?style=flat&logo=pycharm)
-* ![Heroku](https://img.shields.io/badge/Cloud-Heroku-orange?style=flat&logo=heroku)
-![Linode](https://img.shields.io/badge/Cloud-Linode-orange?style=flat&logo=linode)
+[![Latex](https://img.shields.io/badge/Language-Latex-yellow?style=flat&logo=latex)](https://github.com/flavienChamay?tab=repositories&q=&type=&language=latex)
+* [![Django](https://img.shields.io/badge/Framework-Django-red?style=flat&logo=django)](https://en.wikipedia.org/wiki/Django_(web_framework))
+* [![Linux Manjaro](https://img.shields.io/badge/Linux_OS-Manjaro-blue?style=flat&logo=manjaro)](https://en.wikipedia.org/wiki/Manjaro)
+[![Linux Ubuntu](https://img.shields.io/badge/Linux_OS-Ubuntu-blue?style=flat&logo=ubuntu)](https://en.wikipedia.org/wiki/Ubuntu)
+* [![Git](https://img.shields.io/badge/VCS-Git-black?style=flat&logo=git)](https://en.wikipedia.org/wiki/Git)
+[![GitHub](https://img.shields.io/badge/VCS-GitHub-black?style=flat&logo=github)](https://en.wikipedia.org/wiki/GitHub)
+* [![Emacs](https://img.shields.io/badge/IDE-Emacs-white?style=flat&logo=gnu-emacs)](https://en.wikipedia.org/wiki/Emacs)
+[![PyCharm](https://img.shields.io/badge/IDE-PyCharm-white?style=flat&logo=pycharm)](https://en.wikipedia.org/wiki/PyCharm)
+* [![Heroku](https://img.shields.io/badge/PaaS-Heroku-orange?style=flat&logo=heroku)](https://en.wikipedia.org/wiki/Heroku)
+[![Linode](https://img.shields.io/badge/PaaS-Linode-orange?style=flat&logo=linode)](https://en.wikipedia.org/wiki/Linode)
 
 ## :art: My Main Projects:
 <a href="https://github.com/flavienChamay/Simple-Blockchain"><img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=flavienChamay&repo=Simple-Blockchain&theme=algolia&show_icons=true" /> </a> <a href="https://github.com/flavienChamay/PyTacToe"> <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=flavienChamay&repo=PyTacToe&theme=algolia&show_icons=true" /></a>
