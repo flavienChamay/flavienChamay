@@ -15,19 +15,19 @@
 - ⚡ Fun fact - I like jogging and weight training and I'm interested in extraterrestrial life.
 
 ## :wrench: My Skills:
-* [![Python](https://img.shields.io/badge/Language-Python_3-yellow?style=flat&logo=Python)](https://github.com/flavienChamay?tab=repositories&q=&type=&language=python)
-[![C](https://img.shields.io/badge/Language-C_17-yellow?style=flat&logo=C)](https://github.com/flavienChamay?tab=repositories&q=&type=&language=c)
-[![Java](https://img.shields.io/badge/Language-Java_15-yellow?style=flat&logo=Java)](https://github.com/flavienChamay?tab=repositories&q=&type=&language=java)
-[![Latex](https://img.shields.io/badge/Language-Latex-yellow?style=flat&logo=latex)](https://github.com/flavienChamay?tab=repositories&q=&type=&language=latex)
-* [![Django](https://img.shields.io/badge/Framework-Django-red?style=flat&logo=django)](https://en.wikipedia.org/wiki/Django_(web_framework))
+* [![Python](https://img.shields.io/badge/Language-Python_3-yellow?style=flat&logo=Python&logoColor=white)](https://github.com/flavienChamay?tab=repositories&q=&type=&language=python)
+[![C](https://img.shields.io/badge/Language-C_17-yellow?style=flat&logo=C&logoColor=white)](https://github.com/flavienChamay?tab=repositories&q=&type=&language=c)
+[![Java](https://img.shields.io/badge/Language-Java_15-yellow?style=flat&logo=Java&logoColor=white)](https://github.com/flavienChamay?tab=repositories&q=&type=&language=java)
+[![Latex](https://img.shields.io/badge/Language-Latex-yellow?style=flat&logo=latex&logoColor=white)](https://github.com/flavienChamay?tab=repositories&q=&type=&language=latex)
+* [![Django](https://img.shields.io/badge/Framework-Django-red?style=flat&logo=django&logoColor=white)](https://en.wikipedia.org/wiki/Django_(web_framework))
 * [![Linux Manjaro](https://img.shields.io/badge/Linux_OS-Manjaro-blue?style=flat&logo=manjaro)](https://en.wikipedia.org/wiki/Manjaro)
 [![Linux Ubuntu](https://img.shields.io/badge/Linux_OS-Ubuntu-blue?style=flat&logo=ubuntu)](https://en.wikipedia.org/wiki/Ubuntu)
 * [![Git](https://img.shields.io/badge/VCS-Git-black?style=flat&logo=git)](https://en.wikipedia.org/wiki/Git)
 [![GitHub](https://img.shields.io/badge/VCS-GitHub-black?style=flat&logo=github)](https://en.wikipedia.org/wiki/GitHub)
-* [![Emacs](https://img.shields.io/badge/IDE-Emacs-white?style=flat&logo=gnu-emacs)](https://en.wikipedia.org/wiki/Emacs)
-[![PyCharm](https://img.shields.io/badge/IDE-PyCharm-white?style=flat&logo=pycharm)](https://en.wikipedia.org/wiki/PyCharm)
-* [![Heroku](https://img.shields.io/badge/Cloud_Service-Heroku-orange?style=flat&logo=heroku)](https://en.wikipedia.org/wiki/Heroku)
-[![Linode](https://img.shields.io/badge/Cloud_Service-Linode-orange?style=flat&logo=linode)](https://en.wikipedia.org/wiki/Linode)
+* [![Emacs](https://img.shields.io/badge/IDE-Emacs-white?style=flat&logo=gnu-emacs&logoColor=white)](https://en.wikipedia.org/wiki/Emacs)
+[![PyCharm](https://img.shields.io/badge/IDE-PyCharm-white?style=flat&logo=pycharm&logoColor=white)](https://en.wikipedia.org/wiki/PyCharm)
+* [![Heroku](https://img.shields.io/badge/Cloud_Service-Heroku-orange?style=flat&logo=heroku&logoColor=white)](https://en.wikipedia.org/wiki/Heroku)
+[![Linode](https://img.shields.io/badge/Cloud_Service-Linode-orange?style=flat&logo=linode&logoColor=white)](https://en.wikipedia.org/wiki/Linode)
 
 ## :art: My Main Projects:
 <a href="https://github.com/flavienChamay/Simple-Blockchain"><img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=flavienChamay&repo=Simple-Blockchain&theme=algolia&show_icons=true" /> </a> <a href="https://github.com/flavienChamay/PyTacToe"> <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=flavienChamay&repo=PyTacToe&theme=algolia&show_icons=true" /></a>
