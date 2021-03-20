@@ -1,7 +1,7 @@
 ### Hi, I'm Flavien! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 [![Open To Work](https://img.shields.io/badge/OpenToWork-YES-red?style=flat&logo=gravatar&logoColor=white)](https://www.linkedin.com/in/flavien-chamay-836804204)
 [![My CV Markdown](https://img.shields.io/badge/CV-In_MarkDown/Online-yellow?style=flat&logo=markdown&logoColor=white)](https://flavienchamay.github.io/digital-cv-flavien_chamay/)
-[![My CV Latex](https://img.shields.io/badge/CV-In_Latex/PDF-green?style=flat&logo=latex&logoColor=white)](https://github.com/flavienChamay/digital-cv-flavien_chamay/blob/gh-pages/my_nice_latex_resume.pdf)
+[![My CV Latex](https://img.shields.io/badge/CV-In_Latex/PDF-green?style=flat&logo=latex&logoColor=white)](https://raw.githubusercontent.com/flavienChamay/digital-cv-flavien_chamay/gh-pages/my_nice_latex_resume.pdf)
 [![PayPal](https://img.shields.io/badge/PayPal-My_PayPalMe-blue?style=flat&logo=PayPal)](https://www.paypal.com/paypalme/flavienChamay)
 [![GitHub Flavien](https://img.shields.io/github/followers/flavienChamay?label=follow&style=social)](https://github.com/flavienChamay)
 
