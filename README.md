@@ -1,5 +1,5 @@
 ### Hi, I'm Flavien! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-[![Open To Work](https://img.shields.io/badge/OpenToWork-YES-red?style=flat&logo=gravatar&logoColor=white)](https://www.linkedin.com/in/flavien-chamay-836804204)
+[![Open To Work](https://img.shields.io/badge/OpenToWork-YES-red?style=flat&logo=gravatar&logoColor=white)](https://www.linkedin.com/in/flavienchamay/)
 [![My CV Markdown](https://img.shields.io/badge/CV-In_MarkDown/Online-yellow?style=flat&logo=markdown&logoColor=white)](https://flavienchamay.github.io/digital-cv-flavien_chamay/)
 [![My CV Latex](https://img.shields.io/badge/CV-In_Latex/PDF-green?style=flat&logo=latex&logoColor=white)](https://raw.githubusercontent.com/flavienChamay/digital-cv-flavien_chamay/gh-pages/my_nice_latex_resume.pdf)
 [![PayPal](https://img.shields.io/badge/PayPal-My_PayPalMe-blue?style=flat&logo=PayPal)](https://www.paypal.com/paypalme/flavienChamay)
@@ -53,7 +53,7 @@
 
 <!-- This section you create this variables that are used above -->
 [website]: https://duckduckgo.com
-[linkedin]: https://www.linkedin.com/in/flavien-chamay-836804204
+[linkedin]: https://www.linkedin.com/in/flavienchamay/
 [protonmail]: mailto:flavien.chamay@protonmail.com
 [hackerrank]: https://www.hackerrank.com/flavien_chamay
 [brilliant]: https://brilliant.org/profile/flavien-kmc04m/about/
