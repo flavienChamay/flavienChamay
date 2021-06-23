@@ -25,9 +25,7 @@
 * [![Git](https://img.shields.io/badge/VCS-Git-black?style=flat&logo=git&logoColor=white)](https://en.wikipedia.org/wiki/Git)
 [![GitHub](https://img.shields.io/badge/VCS-GitHub-black?style=flat&logo=github&logoColor=white)](https://en.wikipedia.org/wiki/GitHub)
 * [![Emacs](https://img.shields.io/badge/IDE-Emacs-white?style=flat&logo=gnu-emacs&logoColor=white)](https://en.wikipedia.org/wiki/Emacs)
-[![PyCharm](https://img.shields.io/badge/IDE-PyCharm-white?style=flat&logo=pycharm&logoColor=white)](https://en.wikipedia.org/wiki/PyCharm)
 * [![Heroku](https://img.shields.io/badge/Cloud_Service-Heroku-orange?style=flat&logo=heroku&logoColor=white)](https://en.wikipedia.org/wiki/Heroku)
-[![Linode](https://img.shields.io/badge/Cloud_Service-Linode-orange?style=flat&logo=linode&logoColor=white)](https://en.wikipedia.org/wiki/Linode)
 
 ## :art: My Main Projects:
 <a href="https://github.com/flavienChamay/Simple-Blockchain"><img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=flavienChamay&repo=Simple-Blockchain&theme=algolia&show_icons=true" /> </a> <a href="https://github.com/flavienChamay/PyTacToe"> <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=flavienChamay&repo=PyTacToe&theme=algolia&show_icons=true" /> </a> <a href="https://github.com/flavienChamay/flavienchamay-personal-website"><img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=flavienChamay&repo=flavienchamay-personal-website&theme=algolia&show_icons=true" /> </a>
