@@ -6,8 +6,8 @@
 
 
 ## Tech and Math enthusiast.
-- 🔭 I’m currently working on - Building my own website/blog.
-- 🌱 I’m currently learning - Django 3.1.
+- 🔭 I’m currently working at - Capgemini.
+- 🌱 I’m currently learning - Python.
 - ⚡ Fun fact - I like jogging and weight training and I'm interested in extraterrestrial life.
 
 ## :wrench: My Skills:
