@@ -14,6 +14,7 @@
 * [![Python](https://img.shields.io/badge/Language-Python_3-yellow?style=flat&logo=Python&logoColor=white)](https://github.com/flavienChamay?tab=repositories&q=&type=&language=python)
 [![C](https://img.shields.io/badge/Language-C_17-yellow?style=flat&logo=C&logoColor=white)](https://github.com/flavienChamay?tab=repositories&q=&type=&language=c)
 [![Latex](https://img.shields.io/badge/Language-Latex-yellow?style=flat&logo=latex&logoColor=white)](https://github.com/flavienChamay?tab=repositories&q=&type=&language=latex)
+[![Bash](https://img.shields.io/badge/Language-Bash-yellow?style=flat&logo=Bash&logoColor=white)](https://github.com/flavienChamay?tab=repositories&q=&type=&language=Bash)
 * [![Django](https://img.shields.io/badge/Framework-Django_3.1-red?style=flat&logo=django&logoColor=white)](https://en.wikipedia.org/wiki/Django_(web_framework))
 * [![Linux Manjaro](https://img.shields.io/badge/Linux_OS-Manjaro-blue?style=flat&logo=manjaro&logoColor=white)](https://en.wikipedia.org/wiki/Manjaro)
 [![Linux RedHat](https://img.shields.io/badge/Linux_OS-Rhel-blue?style=flat&logo=redhat&logoColor=white)](https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux)
