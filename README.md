@@ -8,10 +8,6 @@
 ## Tech and Math enthusiast.
 - 🔭 I’m currently working on - Building my own website/blog.
 - 🌱 I’m currently learning - Django 3.1.
-<!-- - 👯 I’m looking to collaborate with - 
-- 💬 Ask me about - Python, it's a pleasure to help another person!
-- 🥅 2021 Goal - Creating my first AI, my website
--->
 - ⚡ Fun fact - I like jogging and weight training and I'm interested in extraterrestrial life.
 
 ## :wrench: My Skills:
