@@ -19,9 +19,10 @@
 [![Latex](https://img.shields.io/badge/Language-Latex-yellow?style=flat&logo=latex&logoColor=white)](https://github.com/flavienChamay?tab=repositories&q=&type=&language=latex)
 * [![Django](https://img.shields.io/badge/Framework-Django_3.1-red?style=flat&logo=django&logoColor=white)](https://en.wikipedia.org/wiki/Django_(web_framework))
 * [![Linux Manjaro](https://img.shields.io/badge/Linux_OS-Manjaro-blue?style=flat&logo=manjaro&logoColor=white)](https://en.wikipedia.org/wiki/Manjaro)
-[![Linux RedHat](https://img.shields.io/badge/Linux_OS-Rhel-blue?style=flat&logo=ubuntu&logoColor=white)](https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux)
+[![Linux RedHat](https://img.shields.io/badge/Linux_OS-Rhel-blue?style=flat&logo=rhel&logoColor=white)](https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux)
 * [![Git](https://img.shields.io/badge/VCS-Git-black?style=flat&logo=git&logoColor=white)](https://en.wikipedia.org/wiki/Git)
 * [![Emacs](https://img.shields.io/badge/IDE-Emacs-white?style=flat&logo=gnu-emacs&logoColor=white)](https://en.wikipedia.org/wiki/Emacs)
+[![Vim](https://img.shields.io/badge/IDE-Vim-white?style=flat&logo=gnu-vim&logoColor=white)](https://www.vim.org/)
 
 ## :art: My Main Projects:
 <a href="https://github.com/flavienChamay/Simple-Blockchain"><img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=flavienChamay&repo=Simple-Blockchain&theme=algolia&show_icons=true" /> </a> <a href="https://github.com/flavienChamay/PyTacToe"> <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=flavienChamay&repo=PyTacToe&theme=algolia&show_icons=true" /> </a> <a href="https://github.com/flavienChamay/flavienchamay-personal-website"><img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=flavienChamay&repo=flavienchamay-personal-website&theme=algolia&show_icons=true" /> </a>
