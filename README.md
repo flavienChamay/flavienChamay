@@ -8,9 +8,9 @@
 ## Tech and Math enthusiast.
 - 🔭 I’m currently working on - Building my own website/blog.
 - 🌱 I’m currently learning - Django 3.1.
-- 👯 I’m looking to collaborate with - A company for a job in Python Backend, Open source projects in AI in Python.
+<!-- - 👯 I’m looking to collaborate with - 
 - 💬 Ask me about - Python, it's a pleasure to help another person!
-- 🥅 2021 Goal - Creating my first AI, my website, a bugtracker and finding a job in dev.
+- 🥅 2021 Goal - Creating my first AI, my website -->
 - ⚡ Fun fact - I like jogging and weight training and I'm interested in extraterrestrial life.
 
 ## :wrench: My Skills:
@@ -22,7 +22,7 @@
 [![Linux RedHat](https://img.shields.io/badge/Linux_OS-Rhel-blue?style=flat&logo=rhel&logoColor=white)](https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux)
 * [![Git](https://img.shields.io/badge/VCS-Git-black?style=flat&logo=git&logoColor=white)](https://en.wikipedia.org/wiki/Git)
 * [![Emacs](https://img.shields.io/badge/IDE-Emacs-white?style=flat&logo=gnu-emacs&logoColor=white)](https://en.wikipedia.org/wiki/Emacs)
-[![Vim](https://img.shields.io/badge/IDE-Vim-white?style=flat&logo=gnu-vim&logoColor=white)](https://www.vim.org/)
+[![Vim](https://img.shields.io/badge/IDE-Vim-white?style=flat&logo=vim&logoColor=white)](https://www.vim.org/)
 
 ## :art: My Main Projects:
 <a href="https://github.com/flavienChamay/Simple-Blockchain"><img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=flavienChamay&repo=Simple-Blockchain&theme=algolia&show_icons=true" /> </a> <a href="https://github.com/flavienChamay/PyTacToe"> <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=flavienChamay&repo=PyTacToe&theme=algolia&show_icons=true" /> </a> <a href="https://github.com/flavienChamay/flavienchamay-personal-website"><img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=flavienChamay&repo=flavienchamay-personal-website&theme=algolia&show_icons=true" /> </a>
