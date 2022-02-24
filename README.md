@@ -1,5 +1,5 @@
 ### Hi, I'm Flavien! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-![Open To Work](https://img.shields.io/badge/OpenToWork-YES-red?style=flat&logo=gravatar&logoColor=white)
+[![Open To Work](https://img.shields.io/badge/OpenToWork-YES-red?style=flat&logo=gravatar&logoColor=white)]()
 [![My CV Markdown](https://img.shields.io/badge/CV-In_MarkDown/Online-yellow?style=flat&logo=markdown&logoColor=white)](https://flavienchamay.github.io/digital-cv-flavien_chamay/)
 [![My CV Latex](https://img.shields.io/badge/CV-In_Latex/PDF-green?style=flat&logo=latex&logoColor=white)](https://raw.githubusercontent.com/flavienChamay/digital-cv-flavien_chamay/gh-pages/my_nice_latex_resume.pdf)
 [![GitHub Flavien](https://img.shields.io/github/followers/flavienChamay?label=follow&style=social)](https://github.com/flavienChamay)
@@ -19,9 +19,8 @@
 [![Latex](https://img.shields.io/badge/Language-Latex-yellow?style=flat&logo=latex&logoColor=white)](https://github.com/flavienChamay?tab=repositories&q=&type=&language=latex)
 * [![Django](https://img.shields.io/badge/Framework-Django_3.1-red?style=flat&logo=django&logoColor=white)](https://en.wikipedia.org/wiki/Django_(web_framework))
 * [![Linux Manjaro](https://img.shields.io/badge/Linux_OS-Manjaro-blue?style=flat&logo=manjaro&logoColor=white)](https://en.wikipedia.org/wiki/Manjaro)
-[![Linux Ubuntu](https://img.shields.io/badge/Linux_OS-Ubuntu-blue?style=flat&logo=ubuntu&logoColor=white)](https://en.wikipedia.org/wiki/Ubuntu)
+[![Linux RedHat](https://img.shields.io/badge/Linux_OS-Rhel-blue?style=flat&logo=ubuntu&logoColor=white)](https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux)
 * [![Git](https://img.shields.io/badge/VCS-Git-black?style=flat&logo=git&logoColor=white)](https://en.wikipedia.org/wiki/Git)
-[![GitHub](https://img.shields.io/badge/VCS-GitHub-black?style=flat&logo=github&logoColor=white)](https://en.wikipedia.org/wiki/GitHub)
 * [![Emacs](https://img.shields.io/badge/IDE-Emacs-white?style=flat&logo=gnu-emacs&logoColor=white)](https://en.wikipedia.org/wiki/Emacs)
 
 ## :art: My Main Projects:
@@ -41,6 +40,5 @@
 <!-- BLOG-POST-LIST:END -->
 
 <!-- This section you create this variables that are used above -->
-[website]: https://duckduckgo.com
 [protonmail]: mailto:flavien.chamay@protonmail.com
 [stackoverflow]: https://stackoverflow.com/users/7347010/flavien-chamay?tab=profile
