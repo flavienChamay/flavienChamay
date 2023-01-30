@@ -8,7 +8,7 @@
 - I’m currently learning - Linux System Administration, Network Administration.
 - Hobbies - I like jogging and weight training :muscle: and I'm interested in extraterrestrial life :alien:.
 
-## :nut_and_bolt: My Skills:
+## :nut_and_bolt: Skills:
 * [![Python](https://img.shields.io/badge/Language-Python_3-yellow?style=flat&logo=Python&logoColor=white)](https://github.com/flavienChamay?tab=repositories&q=&type=&language=python)
 [![C](https://img.shields.io/badge/Language-C_17-yellow?style=flat&logo=C&logoColor=white)](https://github.com/flavienChamay?tab=repositories&q=&type=&language=c)
 [![Latex](https://img.shields.io/badge/Language-Latex-yellow?style=flat&logo=latex&logoColor=white)](https://github.com/flavienChamay?tab=repositories&q=&type=&language=latex)
@@ -20,13 +20,13 @@
 * [![Emacs](https://img.shields.io/badge/IDE-Emacs-white?style=flat&logo=gnu-emacs&logoColor=white)](https://www.gnu.org/software/emacs/)
 [![Vim](https://img.shields.io/badge/IDE-Vim-white?style=flat&logo=vim&logoColor=white)](https://www.vim.org/)
 
-## :sparkler: My Main Projects:
+## :sparkler: Main Projects:
 <a href="https://github.com/flavienChamay/Simple-Blockchain"><img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=flavienChamay&repo=Simple-Blockchain&theme=algolia&show_icons=true" /> </a> <a href="https://github.com/flavienChamay/PyTacToe"> <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=flavienChamay&repo=PyTacToe&theme=algolia&show_icons=true" /> </a> <a href="https://github.com/flavienChamay/flavienchamay-personal-website"><img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=flavienChamay&repo=flavienchamay-personal-website&theme=algolia&show_icons=true" /> </a>
 
-## :chart_with_upwards_trend: My Stats on GitHub:
+## :chart_with_upwards_trend: Stats on GitHub:
 <a href="https://github.com/flavienChamay?tab=repositories"><img height="165px" src="https://github-readme-stats.vercel.app/api?username=flavienChamay&count_private=true&include_all_commits=true&theme=algolia&show_icons=true" /><!-- wi*quL3fcV --><img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flavienChamay&layout=compact&theme=algolia" /></a>
 
-## :book: Connect with Me:
+## :book: Contact Infos:
 [<img align="left" alt="codeSTACKr | ProtonMail" width="22px" src="https://simpleicons.org/icons/protonmail.svg" />][protonmail]
 [<img align="left" alt="codeSTACKr | StackOverFlow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
 <br />
