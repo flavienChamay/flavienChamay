@@ -1,13 +1,12 @@
 [![Open To Work](https://img.shields.io/badge/OpenToWork-NO-red?style=flat&logo=gravatar&logoColor=white)]()
 [![My CV Markdown](https://img.shields.io/badge/CV-In_MarkDown/Online-yellow?style=flat&logo=markdown&logoColor=white)](https://flavienchamay.github.io/digital-cv-flavien_chamay/)
 [![My CV Latex](https://img.shields.io/badge/CV-In_Latex/PDF-green?style=flat&logo=latex&logoColor=white)](https://raw.githubusercontent.com/flavienChamay/digital-cv-flavien_chamay/gh-pages/my_nice_latex_resume.pdf)
-[![GitHub Flavien](https://img.shields.io/github/followers/flavienChamay?label=follow&style=social)](https://github.com/flavienChamay)
 
 
 ## Tech and Math enthusiast:
-- 🔭 I’m currently working at - Capgemini.
-- 🌱 I’m currently learning - Python.
-- ⚡ Fun fact - I like jogging and weight training and I'm interested in extraterrestrial life.
+- I’m currently working at - Capgemini France as an Infrastructure Analyst.
+- I’m currently learning - Linux System Administration, Network Administration.
+- Hobbies - I like jogging and weight training and I'm interested in extraterrestrial life.
 
 ## :wrench: My Skills:
 * [![Python](https://img.shields.io/badge/Language-Python_3-yellow?style=flat&logo=Python&logoColor=white)](https://github.com/flavienChamay?tab=repositories&q=&type=&language=python)
