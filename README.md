@@ -4,7 +4,7 @@
 
 
 ## :computer: Tech and Math enthusiast:
-- I’m currently working at - Capgemini France as an Infrastructure Analyst (Alfresco, Libriciel).
+- I’m currently working at - Capgemini France as an Application Analyst (Alfresco, Libriciel).
 - I’m currently learning - Linux System Administration, Network Administration, Python and Bash scripting.
 - Hobbies - I like jogging and weight training and I'm interested in extraterrestrial life.
 
