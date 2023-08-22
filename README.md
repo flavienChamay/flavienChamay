@@ -5,8 +5,8 @@
 
 ## :computer: Tech and Math enthusiast:
 - I’m currently working at - Capgemini France as an Infrastructure Analyst.
-- I’m currently learning - Linux System Administration, Network Administration.
-- Hobbies - I like jogging and weight training :muscle: and I'm interested in extraterrestrial life :alien:.
+- I’m currently learning - Linux System Administration, Network Administration, Python and Bash scripting.
+- Hobbies - I like jogging and weight training and I'm interested in extraterrestrial life.
 
 ## :nut_and_bolt: Skills:
 * [![Python](https://img.shields.io/badge/Language-Python-yellow?style=flat&logo=Python&logoColor=white)](https://github.com/flavienChamay?tab=repositories&q=&type=&language=python)
