@@ -9,14 +9,14 @@
 - Hobbies - I like jogging and weight training and I'm interested in extraterrestrial life.
 
 ## :nut_and_bolt: Skills:
-* [![Python](https://img.shields.io/badge/Language-Python-yellow?style=flat&logo=Python&logoColor=white)](https://github.com/flavienChamay?tab=repositories&q=&type=&language=python)
-[![Latex](https://img.shields.io/badge/Language-Latex-yellow?style=flat&logo=latex&logoColor=white)](https://github.com/flavienChamay?tab=repositories&q=&type=&language=latex)
-[![Bash](https://img.shields.io/badge/Language-Bash-yellow?style=flat&logo=bash&logoColor=white)](https://github.com/flavienChamay?tab=repositories&q=&type=&language=Bash)
+* [![Python](https://img.shields.io/badge/Language-Python-yellow?style=flat&logo=Python&logoColor=white)](https://en.wikipedia.org/wiki/Python_(programming_language))
+[![Latex](https://img.shields.io/badge/Language-Latex-yellow?style=flat&logo=latex&logoColor=white)](https://en.wikipedia.org/wiki/LaTeX)
+[![Bash](https://img.shields.io/badge/Language-Bash-yellow?style=flat&logo=GNUBash&logoColor=white)](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
 * [![Linux Manjaro](https://img.shields.io/badge/Linux_OS-Manjaro-blue?style=flat&logo=manjaro&logoColor=white)](https://en.wikipedia.org/wiki/Manjaro)
-[![Linux RedHat](https://img.shields.io/badge/Linux_OS-Rhel-blue?style=flat&logo=redhat&logoColor=white)](https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux)
-* [![Git](https://img.shields.io/badge/VCS-Git-black?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
-* [![Emacs](https://img.shields.io/badge/IDE-Emacs-white?style=flat&logo=gnu-emacs&logoColor=white)](https://www.gnu.org/software/emacs/)
-[![Vim](https://img.shields.io/badge/IDE-Vim-white?style=flat&logo=vim&logoColor=white)](https://www.vim.org/)
+[![Linux RedHat](https://img.shields.io/badge/Linux_OS-Rhel-blue?style=flat&logo=redhat&logoColor=white)](https://en.wikipedia.org/wiki/Red_Hat_Enterprise_Linux)
+* [![Git](https://img.shields.io/badge/VCS-Git-black?style=flat&logo=git&logoColor=white)](https://en.wikipedia.org/wiki/Git)
+* [![Emacs](https://img.shields.io/badge/IDE-Emacs-white?style=flat&logo=gnu-emacs&logoColor=white)](https://en.m.wikipedia.org/wiki/GNU_Emacs)
+[![Vim](https://img.shields.io/badge/IDE-Vim-white?style=flat&logo=vim&logoColor=white)](https://en.wikipedia.org/wiki/Vim_(text_editor))
 
 ## :sparkler: Main Projects:
 <a href="https://github.com/flavienChamay/Simple-Blockchain"><img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=flavienChamay&repo=Simple-Blockchain&theme=algolia&show_icons=true" /> </a> <a href="https://github.com/flavienChamay/PyTacToe"> <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=flavienChamay&repo=PyTacToe&theme=algolia&show_icons=true" /> </a> <a href="https://github.com/flavienChamay/flavienchamay-personal-website"><img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=flavienChamay&repo=flavienchamay-personal-website&theme=algolia&show_icons=true" /> </a>
