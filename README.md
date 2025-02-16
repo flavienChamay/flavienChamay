@@ -1,4 +1,4 @@
-[![Open To Work](https://img.shields.io/badge/Open_To_Hire-YES-green?style=flat&logo=gravatar&logoColor=white)](https://github.com/flavienChamay)
+[![Open To Work](https://img.shields.io/badge/Open_To_Hire-NO-red?style=flat&logo=gravatar&logoColor=white)](https://github.com/flavienChamay)
 [![My CV Markdown](https://img.shields.io/badge/CV-In_MarkDown/Online-yellow?style=flat&logo=markdown&logoColor=white)](https://flavienchamay.github.io/digital-cv-flavien_chamay/)
 [![My CV Latex](https://img.shields.io/badge/CV-In_Latex/PDF-blue?style=flat&logo=latex&logoColor=white)](https://raw.githubusercontent.com/flavienChamay/digital-cv-flavien_chamay/gh-pages/my_nice_latex_resume.pdf)
 
